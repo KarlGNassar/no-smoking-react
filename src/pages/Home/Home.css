@@ -1,0 +1,21 @@
+.home {
+    height: 100vh;
+    width: 100vw;
+    background-color: #2980d8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+
+.home__logoContainer {
+    position: absolute;
+    top: 25px;
+    
+}
+
+.home__logo {
+    font-size: 100px;
+    color: white;
+}
